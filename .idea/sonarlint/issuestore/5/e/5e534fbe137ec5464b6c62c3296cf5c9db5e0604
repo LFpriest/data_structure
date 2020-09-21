@@ -1,0 +1,21 @@
+
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Á½µ±ùÿÿÿÿ8¶¡…àÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ùâ‹ø8¶¡…àÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î¨Òêúÿÿÿÿ8¶¡…àÈ.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(›ÀÔœûÿÿÿÿ8¶¡…àÈ.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(÷Ó–´8¶¡…àÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ¢Üôúÿÿÿÿ8¶¡…àÈ.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ª×½8¶¡…àÈ.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‡İÚãûÿÿÿÿ8¶¡…àÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Öæ•‘ÿÿÿÿÿ8¶¡…àÈ.
+s
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(“ã¨úøÿÿÿÿ8¶¡…àÈ.
+b	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(³£ˆÿ8¶¡…àÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ş‰ú8¶¡…àÈ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(“ã¨úøÿÿÿÿ8¶¡…àÈ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¶¡…àÈ.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¶¡…àÈ.
+s
+java:S34570"Q%n should be used in place of \n to produce the platform-specific line separator.(›ÀÔœûÿÿÿÿ8¶¡…àÈ.
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(ø•Õ¡8¶¡…àÈ.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(ú÷å8¶¡…àÈ.

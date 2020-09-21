@@ -1,0 +1,18 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ë£8ïªè¶Ç.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¾ãëÇşÿÿÿÿ8éŞ­·Ç.
+U
+java:S1197?"8Move the array designator from the variable to the type.(Şªü¬8ê´¾·Ç.
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8ƒ£·Ç.
+s
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(¾ãëÇşÿÿÿÿ8Š’°·Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ïªè¶Ç.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(áÌÈ8îä›·Ç.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ÎòÂûÿÿÿÿ8€¨Í·Ç.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°±·Ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®¦°Ô8öŒÖ·Ç.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(®¦°Ô8­¯Ò·Ç.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ò¥Ï·Ç.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ş­şÈüÿÿÿÿ8ïªè¶Ç.

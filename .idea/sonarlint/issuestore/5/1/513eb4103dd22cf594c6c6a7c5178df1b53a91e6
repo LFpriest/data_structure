@@ -1,0 +1,25 @@
+
+b	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(³£ˆÿ8ù…àÈ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÁÛàÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Öæ•‘ÿÿÿÿÿ8ÁÛàÈ.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(÷Ó–´8ÁÛàÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ¢Üôúÿÿÿÿ8ÁÛàÈ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(“ã¨úøÿÿÿÿ8ÁÛàÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ùâ‹ø8ÁÛàÈ.
+s
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(“ã¨úøÿÿÿÿ8ÁÛàÈ.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(§–®æÿÿÿÿÿ8ù…àÈ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Á½µ±ùÿÿÿÿ8ÁÛàÈ.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(›ÀÔœûÿÿÿÿ8ÁÛàÈ.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(ø•Õ¡8ù…àÈ.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÁÛàÈ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î¨Òêúÿÿÿÿ8ÁÛàÈ.
+s
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(›ÀÔœûÿÿÿÿ8ÁÛàÈ.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ª×½8ù…àÈ.
+h	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(‡İÚãûÿÿÿÿ8ù…àÈ.
+t
+java:S3457‚"Q%n should be used in place of \n to produce the platform-specific line separator.(§–®æÿÿÿÿÿ8Ó¤’áÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ş‰ú8ÁÛàÈ.
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8îÓçßÈ.
