@@ -9,3 +9,5 @@ X
 (src/main/java/queue/CircleQueueDemo.java,5/1/513eb4103dd22cf594c6c6a7c5178df1b53a91e6
 b
 2src/main/java/linkedlist/SingleLinkedListDemo.java,2/4/2414d75f2ddec5f0eaab30f7455eb5ce7fb0d977
+b
+2src/main/java/linkedlist/DoubleLinkedListDemo.java,4/6/462b82c258b261caeb876d01998a324919ebd941
