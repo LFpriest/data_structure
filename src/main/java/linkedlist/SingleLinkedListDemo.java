@@ -211,7 +211,7 @@ class SingleLinkedList{
             return;
         }
         HeroNode cur = head.next;//当前节点
-        HeroNode next = cur.next;//当前节点的下一个节点
+        HeroNode next = null;//当前节点的下一个节点
         HeroNode reverseHead = new HeroNode(0,"","");//临时头节点
         while (cur != null){
             next = cur.next;//先保存当前节点的下一个节点；
