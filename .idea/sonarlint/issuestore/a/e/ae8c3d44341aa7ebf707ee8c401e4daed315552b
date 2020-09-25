@@ -1,0 +1,27 @@
+
+s
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(ŞÛÌÎşÿÿÿÿ8Ì¾…ûË.
+s
+java:S1104…"PMake next a static final constant or non-public and provide accessors if needed.(äİÀøÿÿÿÿ8½ûûË.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Äøò(8Ì¾…ûË.
+]
+java:S1126N"AReplace this if-then-else statement by a single return statement.(—êŸ8Ÿ¿ûË.
+t
+java:S1104„"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8ˆ×˜ûË.
+T	java:S106{"9Replace this use of System.out or System.err by a logger.(Û¤Şe8ÙáüË.
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(Ùƒÿ†8©œßüË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦î¶ÿùÿÿÿÿ8Ì¾…ûË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á’Àÿşÿÿÿÿ8Ì¾…ûË.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(âñ®8ûûË.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æûì8Ì¾…ûË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÒ‚»ÿÿÿÿÿ8Ì¾…ûË.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ì¾…ûË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÔƒïşÿÿÿÿ8Ì¾…ûË.
+b	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ãË³î8Ü¼ğûË.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(½Å“›ûÿÿÿÿ8Ì¾…ûË.
+c
+java:S1126E"AReplace this if-then-else statement by a single return statement.(°ãÆ¥ûÿÿÿÿ8›–ÚûË.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ŞÛÌÎşÿÿÿÿ8Ì¾…ûË.
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(ğ×íÆ8‡•ÃûË.
+m
+java:S3457{"Q%n should be used in place of \n to produce the platform-specific line separator.(Û¤Şe8ÙáüË.

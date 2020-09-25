@@ -1,0 +1,20 @@
+
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8§ÇÔË.
+n
+java:S3457r"Q%n should be used in place of \n to produce the platform-specific line separator.(ùê€¨8Ú´õÕË.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Øùœí8§ÇÔË.
+s
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(‡¡€åøÿÿÿÿ8º¸êÕË.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(ùê€¨8È„ôÕË.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(îªèë8õïÌÕË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆåŞ¶üÿÿÿÿ8èÃ–ÔË.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(‡¡€åøÿÿÿÿ8³„èÕË.
+n
+java:S3457n"Q%n should be used in place of \n to produce the platform-specific line separator.(îªèë8ÇäíÕË.
+f
+java:S2259)"DA "NullPointerException" could be thrown; "curBoy" is nullable here.(Æ¾şÔùÿÿÿÿ8‰ë³ÔË.
+d
+java:S1128"HRemove this unused import 'javax.management.loading.PrivateClassLoader'.(Üƒ“S8‰¤ëÓË.
+]	java:S125X"<This block of commented-out lines of code should be removed.(›¿äÅÿÿÿÿÿ8ŞÂ±ÕË.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ÉãÖ×8´•‘ÕË.

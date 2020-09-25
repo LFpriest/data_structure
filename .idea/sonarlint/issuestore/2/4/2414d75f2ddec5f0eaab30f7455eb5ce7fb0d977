@@ -1,27 +1,27 @@
 
-r
-java:S1104ì"TMake nickName a static final constant or non-public and provide accessors if needed.(Åœ¦é8ÅÄƒüÈ.
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(–”Ïê8µ¸‰É.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¿ôò¢ùÿÿÿÿ8²ı‹É.
 Y
 java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8Ì×É‹É.
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¿ôò¢ùÿÿÿÿ8²ı‹É.
-V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ñ€“ê8Ì×É‹É.
-U	java:S106'"9Replace this use of System.out or System.err by a logger.(¡éöÇ8‡âÀŒÉ.
-T	java:S106$"9Replace this use of System.out or System.err by a logger.(Ü›‚V8İœø§Ë.
-{	java:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8²Š¾‹É.
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô…ëçøÿÿÿÿ8ëí˜É.
-l
-java:S1104ê"NMake no a static final constant or non-public and provide accessors if needed.(Ë¥ÏÄ8ÅÄƒüÈ.
-V	java:S106€"9Replace this use of System.out or System.err by a logger.(–”Ïê8µ¸‰É.
-[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8µ¸‰É.
 T	java:S106a"9Replace this use of System.out or System.err by a logger.(é¯°48Ì©ëˆÉ.
-Z	java:S106r"9Replace this use of System.out or System.err by a logger.(æåšıÿÿÿÿ8ß¹‰É.
 z	java:S135R"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¼®‚ˆÉ.
-z	java:S135p"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ß¹‰É.
-T	java:S106 "9Replace this use of System.out or System.err by a logger.(†Ÿ—]8Ç‡½‰É.
-]	java:S125"<This block of commented-out lines of code should be removed.(œø•†øÿÿÿÿ8µ¸‰É.
-[	java:S106Â"9Replace this use of System.out or System.err by a logger.(æåšıÿÿÿÿ8µ¸‰É.
-V	java:S106³"9Replace this use of System.out or System.err by a logger.(ï‡Úß8á»É.
-n
-java:S1104ë"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ÅÄƒüÈ.
 s
 java:S1104î"PMake next a static final constant or non-public and provide accessors if needed.(©“Îøÿÿÿÿ8ÅÄƒüÈ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(æåšıÿÿÿÿ8ß¹‰É.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¡éöÇ8‡âÀŒÉ.
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(ï‡Úß8á»É.
+l
+java:S1104ê"NMake no a static final constant or non-public and provide accessors if needed.(Ë¥ÏÄ8ÅÄƒüÈ.
+z	java:S135p"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ß¹‰É.
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8µ¸‰É.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô…ëçøÿÿÿÿ8ëí˜É.
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(æåšıÿÿÿÿ8µ¸‰É.
+]	java:S125"<This block of commented-out lines of code should be removed.(œø•†øÿÿÿÿ8µ¸‰É.
+{	java:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8²Š¾‹É.
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(†Ÿ—]8Ç‡½‰É.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ñ€“ê8Ì×É‹É.
+n
+java:S1104ë"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ÅÄƒüÈ.
+r
+java:S1104ì"TMake nickName a static final constant or non-public and provide accessors if needed.(Åœ¦é8ÅÄƒüÈ.
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(Ü›‚V8İœø§Ë.

@@ -1,0 +1,20 @@
+
+n
+java:S3457j"Q%n should be used in place of \n to produce the platform-specific line separator.(ç²ó˜8šĞ¦öË.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æûì8°ÀÓúË.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(ùÑƒÜ8Ì„ØË.
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(ç²ó˜8µˆ¥öË.
+b	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(ûî¼ğ8ğí‰ØË.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8°ÀÓúË.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Äøò(8°ÀÓúË.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(½Å“›ûÿÿÿÿ8˜ù×úË.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(À·İÌ8¤ñş×Ë.
+s
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(ŞÛÌÎşÿÿÿÿ8°ÀÓúË.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ŞÛÌÎşÿÿÿÿ8°ÀÓúË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÒ‚»ÿÿÿÿÿ8°ÀÓúË.
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8•…ÓúË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦î¶ÿùÿÿÿÿ8°ÀÓúË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á’Àÿşÿÿÿÿ8°ÀÓúË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÔƒïşÿÿÿÿ8°ÀÓúË.

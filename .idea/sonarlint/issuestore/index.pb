@@ -11,3 +11,9 @@ b
 2src/main/java/linkedlist/SingleLinkedListDemo.java,2/4/2414d75f2ddec5f0eaab30f7455eb5ce7fb0d977
 b
 2src/main/java/linkedlist/DoubleLinkedListDemo.java,4/6/462b82c258b261caeb876d01998a324919ebd941
+U
+%src/main/java/linkedlist/Josepfu.java,b/0/b0925bb569dd7c3705248a092c3b09b021f25cd7
+W
+'src/main/java/stack/ArrayStackDemo.java,7/a/7a72f729e611e3ad76f838ee3838b8d90bcba637
+\
+,src/main/java/stack/LinkedListStackDemo.java,a/e/ae8c3d44341aa7ebf707ee8c401e4daed315552b
